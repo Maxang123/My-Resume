@@ -56,7 +56,7 @@ Thesis
 - IOT Weathering Station 
 -IOT Machine Learning for Weather forecast
 -Human Eye Control Model
-====================================================================================================================================================================
+=========================================================================================================================
 [![IMG-1472.jpg](https://i.postimg.cc/x8pNCT4T/IMG-1472.jpg)](https://postimg.cc/GTYmgrRZ)
 [![IMG-6953-0.jpg](https://i.postimg.cc/YSBGjPbg/IMG-6953-0.jpg)](https://postimg.cc/G4zh5X0h)
 
