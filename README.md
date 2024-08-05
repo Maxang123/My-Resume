@@ -66,16 +66,25 @@ Thesis
 
 
 ## Projects
-- IOT Weathering Station 
+- IOT Weathering Station
+  
 -IOT Machine Learning for Weather forecast
+
 -Human Eye Control Model
+
 ##Department of interest
 -DevOps Engineer
+
 -IOT Engineer
+
 -Software Engineer(Embedded)
+
 -Image processing Engineer
+
 -Automation Engineer
+
 -Robotics Engineer
+
 -Firmware Electrical Engineer
 
 =========================================================================================
