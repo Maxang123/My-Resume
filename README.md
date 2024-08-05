@@ -15,13 +15,18 @@
 
 ## Work Experience
 - Training delta 2024 Training in using the basic program of delta and the PLC edge system, gaining knowledge from making ladder diagrams to controlling motors, both induction motor and ac servo motor
-Thesis - Automated Transportation System with QR code for Warehouses using Autonomous Mobile Robots (AMR)
+Thesis
+- Automated Transportation System with QR code for Warehouses using Autonomous Mobile Robots (AMR)
+  
 2023-NOW mapping with Lidar Sensor. image object and QR Code for Sorting Object. link module robot and ware house with MQTT. Write web pages for control using the Django Framework. control web site with docker desktop
+
 2024-Play Fun Fest : CODING ERA 2024 Bring Autonomous Mobile Robots (AMR) to participate in the exhibition at Play Fun Fest : CODING ERA 2024.
+
 2023-NOW Welcoming guests to come see the event at Techno Park Building KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK
        Welcoming guests who come to study, such as BYD Company
        and the arrival of the Ambassador of Romania to The Kingdom
        of Thailand.
+       
 2024-research Solar powered with automatic solar panel cleaning system 
       Dust and dirt accumulated on solar panels have a significant 
        impact on the voltage supplied. This causes the performance of 
