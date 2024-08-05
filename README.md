@@ -108,4 +108,8 @@ Thesis
 
 [![S-87900166-0.jpg](https://i.postimg.cc/yd8sQhLW/S-87900166-0.jpg)](https://postimg.cc/McNCXB28)
 
+[![solar2.jpg](https://i.postimg.cc/fL367JQg/solar2.jpg)](https://postimg.cc/N9cJBGM1)
+
 [![solar.png](https://i.postimg.cc/nrjwm5B8/solar.png)](https://postimg.cc/zHNjZxxp)
+
+[![solar3.jpg](https://i.postimg.cc/DZsxysTF/solar3.jpg)](https://postimg.cc/sQjYTMx0)
