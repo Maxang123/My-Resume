@@ -71,5 +71,21 @@ Thesis
 -Human Eye Control Model
 =========================================================================================
 [![IMG-1472.jpg](https://i.postimg.cc/x8pNCT4T/IMG-1472.jpg)](https://postimg.cc/GTYmgrRZ)
+
 [![IMG-6953-0.jpg](https://i.postimg.cc/YSBGjPbg/IMG-6953-0.jpg)](https://postimg.cc/G4zh5X0h)
 
+[![Screenshot-2024-08-05-190346.png](https://i.postimg.cc/4dD27sHZ/Screenshot-2024-08-05-190346.png)](https://postimg.cc/phBJ3NB1)
+
+[![S-14295085-0.jpg](https://i.postimg.cc/wTL8kb90/S-14295085-0.jpg)](https://postimg.cc/XpjzjLGC)
+
+[![63927.jpg](https://i.postimg.cc/44rRVTRY/63927.jpg)](https://postimg.cc/mhNnWJD4)
+
+[![S-14295087-0.jpg](https://i.postimg.cc/x1QrpyCY/S-14295087-0.jpg)](https://postimg.cc/XpsDp5dD)
+
+[![S-14295088-0.jpg](https://i.postimg.cc/sg4kkQQW/S-14295088-0.jpg)](https://postimg.cc/CRdrDK4M)
+
+[![S-14295089-0.jpg](https://i.postimg.cc/wBxCgqLG/S-14295089-0.jpg)](https://postimg.cc/3k6SZHLX)
+
+[![S-14295090-0.jpg](https://i.postimg.cc/9MrswLxP/S-14295090-0.jpg)](https://postimg.cc/mzWm0yWh)
+
+[![S-14295091-0.jpg](https://i.postimg.cc/rphvpB9F/S-14295091-0.jpg)](https://postimg.cc/1gqWCYTL)
