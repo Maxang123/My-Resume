@@ -74,8 +74,6 @@ Thesis
 
 [![IMG-6953-0.jpg](https://i.postimg.cc/YSBGjPbg/IMG-6953-0.jpg)](https://postimg.cc/G4zh5X0h)
 
-[![Screenshot-2024-08-05-190346.png](https://i.postimg.cc/4dD27sHZ/Screenshot-2024-08-05-190346.png)](https://postimg.cc/phBJ3NB1)
-
 [![S-14295085-0.jpg](https://i.postimg.cc/wTL8kb90/S-14295085-0.jpg)](https://postimg.cc/XpjzjLGC)
 
 [![63927.jpg](https://i.postimg.cc/44rRVTRY/63927.jpg)](https://postimg.cc/mhNnWJD4)
@@ -103,3 +101,9 @@ Thesis
 [![S-14295095-0.jpg](https://i.postimg.cc/Fstw1g0c/S-14295095-0.jpg)](https://postimg.cc/K4N0HTqv)
 
 [![63930.jpg](https://i.postimg.cc/Y24wvCZc/63930.jpg)](https://postimg.cc/BtGzy4JN)
+
+[![Screenshot-2024-08-05-190346.png](https://i.postimg.cc/4dD27sHZ/Screenshot-2024-08-05-190346.png)](https://postimg.cc/phBJ3NB1)
+
+[![S-87900162-0.jpg](https://i.postimg.cc/L8j9n8q4/S-87900162-0.jpg)](https://postimg.cc/yDY4GBX2)
+
+[![S-87900166-0.jpg](https://i.postimg.cc/yd8sQhLW/S-87900166-0.jpg)](https://postimg.cc/McNCXB28)
