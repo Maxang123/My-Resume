@@ -34,18 +34,31 @@ Thesis
 
 ## Skills
 - HTML,CSS,Node-RED
+  
 -Python, C ,C++
+
 -PLC (SIEMENS,MITSUBISHI) 
+
 -Data Analyzing - Python
+
 -Image processing - Python
+
 -Cad Design - SOLIDWORKS 
+
 -Django Framework
+
 -Python
+
 -Docker
+
 -Problem solving
+
 -Plan management
+
 -Hard working
+
 -Adaptability
+
 -Language 
       -Thai
       -English
