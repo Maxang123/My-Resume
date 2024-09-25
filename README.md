@@ -86,7 +86,7 @@ Thesis
 
 [![IMG-1472.jpg](https://i.postimg.cc/x8pNCT4T/IMG-1472.jpg)](https://postimg.cc/GTYmgrRZ)
 -Image Filter Web Applications
-[url=https://ibb.co/njXFG6s][img]https://i.ibb.co/M7zmvZD/Screenshot-2024-09-25-181314.png[/img][/url]
+[![Screenshot-2024-09-25-181314.png](https://i.postimg.cc/R0WhzCwS/Screenshot-2024-09-25-181314.png)](https://postimg.cc/LqM2tpyw)
 
 ## Skills
 - HTML,CSS,Node-RED
