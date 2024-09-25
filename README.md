@@ -24,6 +24,10 @@ Thesis
 
 [![S-87900166-0.jpg](https://i.postimg.cc/yd8sQhLW/S-87900166-0.jpg)](https://postimg.cc/McNCXB28)
 
+[![Screenshot-2024-09-25-184004.png](https://i.postimg.cc/CM7gmTfm/Screenshot-2024-09-25-184004.png)](https://postimg.cc/xqXh1Z5z)
+
+[![Screenshot-2024-09-25-184336.png](https://i.postimg.cc/BbKcPjjL/Screenshot-2024-09-25-184336.png)](https://postimg.cc/BPJ1dQc4)
+
   
 2023-NOW mapping with Lidar Sensor. image object and QR Code for Sorting Object. link module robot and ware house with MQTT. Write web pages for control using the Django Framework. control web site with docker desktop
 
@@ -41,7 +45,7 @@ Thesis
 
 [![S-14295090-0.jpg](https://i.postimg.cc/9MrswLxP/S-14295090-0.jpg)](https://postimg.cc/mzWm0yWh)
 
-[![Screenshot-2024-09-25-184004.png](https://i.postimg.cc/CM7gmTfm/Screenshot-2024-09-25-184004.png)](https://postimg.cc/xqXh1Z5z)
+
 
 2023-NOW Welcoming guests to come see the event at Techno Park Building KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK
        Welcoming guests who come to study, such as BYD Company
