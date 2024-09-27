@@ -95,7 +95,7 @@ Thesis
 [![Screenshot-2024-09-25-181314.png](https://i.postimg.cc/R0WhzCwS/Screenshot-2024-09-25-181314.png)](https://postimg.cc/LqM2tpyw)
 
 ## Skills
-- HTML,CSS,JS,Node-RED
+-HTML,CSS,JS,Node-RED
   
 -Python, C ,C++
 
