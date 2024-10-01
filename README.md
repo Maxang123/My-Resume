@@ -33,6 +33,7 @@ Thesis
 
 2024-Play Fun Fest : CODING ERA 2024 Bring Autonomous Mobile Robots (AMR) to participate in the exhibition at Play Fun Fest : CODING ERA 2024.
 
+
 [![S-14295085-0.jpg](https://i.postimg.cc/wTL8kb90/S-14295085-0.jpg)](https://postimg.cc/XpjzjLGC)
 
 [![63927.jpg](https://i.postimg.cc/44rRVTRY/63927.jpg)](https://postimg.cc/mhNnWJD4)
@@ -79,6 +80,7 @@ Thesis
 
 [![solar3.jpg](https://i.postimg.cc/DZsxysTF/solar3.jpg)](https://postimg.cc/sQjYTMx0)
 
+
 ## Projects
 -IOT Machine Learning for Weather forecast
 
@@ -91,7 +93,10 @@ Thesis
 -Human Eye Control Model
 
 [![IMG-1472.jpg](https://i.postimg.cc/x8pNCT4T/IMG-1472.jpg)](https://postimg.cc/GTYmgrRZ)
+
+
 -Image Filter Web Applications
+
 [![Screenshot-2024-09-25-181314.png](https://i.postimg.cc/R0WhzCwS/Screenshot-2024-09-25-181314.png)](https://postimg.cc/LqM2tpyw)
 
 ## Skills
