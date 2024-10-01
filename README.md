@@ -126,7 +126,7 @@ Thesis
       -English
 
 ## Department of interest
--DevOps Engineer
+-Front-End Developer
 
 -IOT Engineer
 
