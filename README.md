@@ -141,9 +141,10 @@ Thesis
 
 -Robotics Engineer
 
-## Cooperative Education
 
 -Firmware Electrical Engineer
 
 =========================================================================================
+## Cooperative Education
+
 
