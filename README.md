@@ -129,19 +129,16 @@ Thesis
       -English
 
 ## Department of interest
--Front-End Developer
+
+-ML/AI Engineer
 
 -IOT Engineer
-
--Software Engineer(Embedded)
 
 -Image processing Engineer
 
 -Automation Engineer
 
 -Robotics Engineer
-
--Firmware Electrical Engineer
 
 
 ## Cooperative Education
