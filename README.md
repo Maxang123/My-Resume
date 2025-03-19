@@ -146,7 +146,7 @@ Thesis
 
 
 ## Cooperative Education
-Research and development for CDGS
+-Research and development for CDGS
 Face recognition system,
 Face motion detection system,
 Face spoofing prevention system
