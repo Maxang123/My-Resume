@@ -1,7 +1,9 @@
 # Resume
 
 ## About Me
--Motivated Mechatronics Engineering student seeking an internship to gain practical experience and contribute to projects in robotics and automation. Eager to learn and support the engineering team with a hands-on approach.
+-Hello, I am a recent graduate in Mechatronics Engineering. I have a deep interest in Artificial Intelligence (AI) and am primarily looking for career opportunities in this field. With a background in automation, data processing, and algorithm development, I have expanded my knowledge and skills to include Machine Learning, Deep Learning, and Computer Vision. I have experience working on AI-related projects such as facial recognition systems for identity verification, image processing for object detection, and deep learning models for data analysis. I also have skills in web development and connecting AI to IoT systems to enable practical applications in industry.
+
+I am looking for an opportunity to join a challenging team that will allow me to further develop my AI expertise and effectively create solutions that solve real business problems.
 
 ## Education
 
