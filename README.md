@@ -154,6 +154,6 @@ For use in mobile applications and other applications
 
 [![Screenshot-2025-03-19-124731.png](https://i.postimg.cc/KjTPWs5z/Screenshot-2025-03-19-124731.png)](https://postimg.cc/LgHgYDwK)
 
-===========================================================================
-
+================================================================================
+[![borntodev-academy-Essential-SQL-for-Everyone-certificate.png](https://i.postimg.cc/t48CsrNw/borntodev-academy-Essential-SQL-for-Everyone-certificate.png)](https://postimg.cc/5XqMGSGS)
 
