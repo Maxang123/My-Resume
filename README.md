@@ -158,6 +158,8 @@ For use in mobile applications and other applications
 
 [![GLasses.jpg](https://i.postimg.cc/SNxxvGyq/GLasses.jpg)](https://postimg.cc/ThBxygLH)
 
+[![new-S-19759108.jpg](https://i.postimg.cc/wTzmTrhp/new-S-19759108.jpg)](https://postimg.cc/SjZsgDTT)
+
 ================================================================================
 [![borntodev-academy-Essential-SQL-for-Everyone-certificate.png](https://i.postimg.cc/t48CsrNw/borntodev-academy-Essential-SQL-for-Everyone-certificate.png)](https://postimg.cc/5XqMGSGS)
 
