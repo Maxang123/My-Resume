@@ -152,12 +152,13 @@ Face motion detection system,
 Face spoofing prevention system
 For use in mobile applications and other applications
 
+Demo 
 [![Screenshot-2025-03-19-124731.png](https://i.postimg.cc/KjTPWs5z/Screenshot-2025-03-19-124731.png)](https://postimg.cc/LgHgYDwK)
 
+CDGS Company Face Database
 [![Embedding-Best.png](https://i.postimg.cc/zfWMj46B/Embedding-Best.png)](https://postimg.cc/bGy3YVzc)
 
-[![GLasses.jpg](https://i.postimg.cc/SNxxvGyq/GLasses.jpg)](https://postimg.cc/ThBxygLH)
-
+Check for facial forgery from printing or equipment
 [![new-S-19759108.jpg](https://i.postimg.cc/wTzmTrhp/new-S-19759108.jpg)](https://postimg.cc/SjZsgDTT)
 
 ================================================================================
