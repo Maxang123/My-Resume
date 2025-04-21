@@ -8,8 +8,7 @@ I am looking for an opportunity to join a challenging team that will allow me to
 ## Education
 
 - KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK
-  Mechatronics engineering 
-      GPA 2.84
+  Mechatronics engineering GPA 2.84
 
 -The Demonstration School of Ramkhamhaeng University
       Mathematics - Science (2018-2021)
