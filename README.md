@@ -154,6 +154,10 @@ For use in mobile applications and other applications
 
 [![Screenshot-2025-03-19-124731.png](https://i.postimg.cc/KjTPWs5z/Screenshot-2025-03-19-124731.png)](https://postimg.cc/LgHgYDwK)
 
+[![Embedding-Best.png](https://i.postimg.cc/zfWMj46B/Embedding-Best.png)](https://postimg.cc/bGy3YVzc)
+
+[![GLasses.jpg](https://i.postimg.cc/SNxxvGyq/GLasses.jpg)](https://postimg.cc/ThBxygLH)
+
 ================================================================================
 [![borntodev-academy-Essential-SQL-for-Everyone-certificate.png](https://i.postimg.cc/t48CsrNw/borntodev-academy-Essential-SQL-for-Everyone-certificate.png)](https://postimg.cc/5XqMGSGS)
 
