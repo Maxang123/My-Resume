@@ -149,7 +149,8 @@ Thesis
 -Research and development for CDGS
 Face recognition system,
 Face motion detection system,
-Face spoofing prevention system
+Face spoofing prevention system,
+Check the wearing of glasses or masks
 For use in mobile applications and other applications
 
 Demo 
