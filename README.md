@@ -160,8 +160,7 @@ CDGS Company Face Database
 
 [![Embedding-Best.png](https://i.postimg.cc/zfWMj46B/Embedding-Best.png)](https://postimg.cc/bGy3YVzc)
 
-Check for facial forgery from printing or equipment
-[![new-S-19759108.jpg](https://i.postimg.cc/wTzmTrhp/new-S-19759108.jpg)](https://postimg.cc/SjZsgDTT)
+
 
 [![Screenshot-2025-04-24-150018.png](https://i.postimg.cc/gJzTkkkj/Screenshot-2025-04-24-150018.png)](https://postimg.cc/rdHJfT42)
 
