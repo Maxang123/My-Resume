@@ -150,6 +150,8 @@ Thesis
 
 -Data Engineer
 
+-IOT Developer
+
 ## Cooperative Education
 -Research and development for CDGS
 Face recognition system,
