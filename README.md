@@ -26,11 +26,13 @@ Thesis
 
 [![S-87900166-0.jpg](https://i.postimg.cc/yd8sQhLW/S-87900166-0.jpg)](https://postimg.cc/McNCXB28)
 
+[![S-19472386.jpg](https://i.postimg.cc/W1JHcT2N/S-19472386.jpg)](https://postimg.cc/jDtXzVwm)
+
 [![Screenshot-2024-09-25-184004.png](https://i.postimg.cc/CM7gmTfm/Screenshot-2024-09-25-184004.png)](https://postimg.cc/xqXh1Z5z)
 
 [![Screenshot-2024-09-25-184336.png](https://i.postimg.cc/BbKcPjjL/Screenshot-2024-09-25-184336.png)](https://postimg.cc/BPJ1dQc4)
 
-[![S-19472386.jpg](https://i.postimg.cc/W1JHcT2N/S-19472386.jpg)](https://postimg.cc/jDtXzVwm)
+
 
   
 2023-NOW mapping with Lidar Sensor. image object and QR Code for Sorting Object. link module robot and ware house with MQTT. Write web pages for control using the Django Framework. control web site with docker desktop
