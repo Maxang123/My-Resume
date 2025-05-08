@@ -146,6 +146,9 @@ Thesis
 
 -Robotics Engineer
 
+-Python Developer
+
+-Data Engineer
 
 ## Cooperative Education
 -Research and development for CDGS
