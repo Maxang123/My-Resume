@@ -66,6 +66,8 @@ Thesis
 
 [![S-14295091-0.jpg](https://i.postimg.cc/rphvpB9F/S-14295091-0.jpg)](https://postimg.cc/1gqWCYTL)
 
+-Welcoming the House of Representatives Industrial Affairs Committee
+
 [![63912.jpg](https://i.postimg.cc/6Tsc30SQ/63912.jpg)](https://postimg.cc/XB8d1wnM)
 
 -Welcoming the Ambassador of the Republic of Romania to Thailand
