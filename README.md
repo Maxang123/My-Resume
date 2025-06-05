@@ -76,7 +76,7 @@ Thesis
 
 [![63930.jpg](https://i.postimg.cc/Y24wvCZc/63930.jpg)](https://postimg.cc/BtGzy4JN)
 
--
+-Welcome high school students interested in AI and robotics.
 
 [![S-14295094-0.jpg](https://i.postimg.cc/sfGtV0Gs/S-14295094-0.jpg)](https://postimg.cc/BtshppCV)
 
