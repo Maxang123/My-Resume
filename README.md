@@ -18,6 +18,9 @@ I am looking for an opportunity to join a challenging team that will allow me to
 ## Work Experience
 - Training delta 2024 Training in using the basic program of delta and the PLC edge system, gaining knowledge from making ladder diagrams to controlling motors, both induction motor and ac servo motor
 Thesis
+
+[![Delta-Certificate.jpg](https://i.postimg.cc/8PS5yxxK/Delta-Certificate.jpg)](https://postimg.cc/jCMt23xP)
+
 - Automated Transportation System with QR code for Warehouses using Autonomous Mobile Robots (AMR)
 
 [![Screenshot-2024-08-05-190346.png](https://i.postimg.cc/4dD27sHZ/Screenshot-2024-08-05-190346.png)](https://postimg.cc/phBJ3NB1)
