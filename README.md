@@ -66,9 +66,11 @@ Thesis
 
 [![63912.jpg](https://i.postimg.cc/6Tsc30SQ/63912.jpg)](https://postimg.cc/XB8d1wnM)
 
+-Welcoming the Ambassador of the Republic of Romania to Thailand
+
 [![S-14295092-0.jpg](https://i.postimg.cc/NMSS6RV3/S-14295092-0.jpg)](https://postimg.cc/tZdByn9k)
 
--Provide comments to the Ambassador for inspection in Thailand
+
 
 [![S-14295093-0.jpg](https://i.postimg.cc/VvtTDdPd/S-14295093-0.jpg)](https://postimg.cc/QKX0MNt3)
 
