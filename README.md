@@ -190,5 +190,8 @@ CDGS Company Face Database
 [![Screenshot-2025-04-24-150018.png](https://i.postimg.cc/gJzTkkkj/Screenshot-2025-04-24-150018.png)](https://postimg.cc/rdHJfT42)
 
 ===========================================================================
+
+[![AI-for-All-From-Basics-to-Gen-AI-Practice-AI-for-All-From-Basics-to-Gen-AI-Practice-Course-Completio.png](https://i.postimg.cc/NMJZG27Z/AI-for-All-From-Basics-to-Gen-AI-Practice-AI-for-All-From-Basics-to-Gen-AI-Practice-Course-Completio.png)](https://postimg.cc/9R9LJMkB)
+
 [![borntodev-academy-Essential-SQL-for-Everyone-certificate.png](https://i.postimg.cc/t48CsrNw/borntodev-academy-Essential-SQL-for-Everyone-certificate.png)](https://postimg.cc/5XqMGSGS)
 
