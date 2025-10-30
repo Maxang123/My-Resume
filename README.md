@@ -168,6 +168,8 @@ Thesis
 
 -IOT Developer
 
+-AI Automation Engineer
+
 ## Cooperative Education
 -Research and development for CDGS
 Face recognition system,
