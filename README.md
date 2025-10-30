@@ -33,8 +33,6 @@ Thesis
 
 [![Screenshot-2024-09-25-184004.png](https://i.postimg.cc/CM7gmTfm/Screenshot-2024-09-25-184004.png)](https://postimg.cc/xqXh1Z5z)
 
-[![Screenshot-2024-09-25-184336.png](https://i.postimg.cc/BbKcPjjL/Screenshot-2024-09-25-184336.png)](https://postimg.cc/BPJ1dQc4)
-
 
 
   
