@@ -16,8 +16,6 @@ I am looking for an opportunity to join a challenging team that will allow me to
 
 
 ## Work Experience
-- Training delta 2024 Training in using the basic program of delta and the PLC edge system, gaining knowledge from making ladder diagrams to controlling motors, both induction motor and ac servo motor
-Thesis
 
 [![Delta-Certificate.jpg](https://i.postimg.cc/8PS5yxxK/Delta-Certificate.jpg)](https://postimg.cc/jCMt23xP)
 
@@ -194,4 +192,6 @@ CDGS Company Face Database
 [![AI-for-All-From-Basics-to-Gen-AI-Practice-AI-for-All-From-Basics-to-Gen-AI-Practice-Course-Completio.png](https://i.postimg.cc/NMJZG27Z/AI-for-All-From-Basics-to-Gen-AI-Practice-AI-for-All-From-Basics-to-Gen-AI-Practice-Course-Completio.png)](https://postimg.cc/9R9LJMkB)
 
 [![borntodev-academy-Essential-SQL-for-Everyone-certificate.png](https://i.postimg.cc/t48CsrNw/borntodev-academy-Essential-SQL-for-Everyone-certificate.png)](https://postimg.cc/5XqMGSGS)
+
+[![Delta-Certificate.jpg](https://i.postimg.cc/8PS5yxxK/Delta-Certificate.jpg)](https://postimg.cc/jCMt23xP)
 
