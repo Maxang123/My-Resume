@@ -174,7 +174,7 @@ Face spoofing prevention system,
 Check the wearing of glasses or masks
 For use in mobile applications and other applications
 
-Demo 
+
 [![Screenshot-2025-03-19-124731.png](https://i.postimg.cc/KjTPWs5z/Screenshot-2025-03-19-124731.png)](https://postimg.cc/LgHgYDwK)
 
 CDGS Company Face Database
